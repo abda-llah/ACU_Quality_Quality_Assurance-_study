@@ -1,7 +1,7 @@
-print("my name is hosam ")
-print("my id is 12345")
-print("my hight is 1223")
+print("my name is apdallah ")
+print("my id is 41910361")
+print("my hight is 123456")
 
-print("my age is 12")
+print("my age is 21")
 print("hello world ")
-print('g')
+print('F')
